@@ -1,2 +1,0 @@
-# PSG
-preemptive strikes game
